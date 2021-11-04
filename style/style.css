@@ -1,0 +1,45 @@
+.main-title {
+    font-family: 'Staatliches', cursive;
+    font-weight: bold;
+    font-size: 60px;
+    color: black;
+    text-align: center;
+    background-color: tomato;
+}
+
+.button-link {
+    padding: 15px; 
+    background-color:#193498;
+    color: lightsalmon;
+    border-radius: 10px ;
+    font-family: 'Staatliches', cursive;
+    font-size: 40px;
+}
+
+.car-name {
+    color: rgba(35, 32, 216, 0.849);
+    font-family: 'Staatliches', cursive;
+    font-size: 30px;
+}
+
+.nav-panel {
+    padding: 8px; 
+    background-color:#193498;
+    color: rgb(245, 236, 158);
+    border-radius: 20px ;
+    font-family: 'Staatliches', cursive;
+    font-size: 25px; 
+    
+}
+
+.iletisim {
+    padding: 8px; 
+    color: rgb(1, 26, 31);
+    border-radius: 20px ;
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;    
+}
+
+.body-bg {
+    background-color:#FBF3E4;
+}
